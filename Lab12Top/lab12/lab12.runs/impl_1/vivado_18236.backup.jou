@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Nov 29 10:28:33 2021
+# Process ID: 18236
+# Current directory: H:/EECS140_LAB/lab12/lab12.runs/impl_1
+# Command line: vivado.exe -log masterslave.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source masterslave.tcl -notrace
+# Log file: H:/EECS140_LAB/lab12/lab12.runs/impl_1/masterslave.vdi
+# Journal file: H:/EECS140_LAB/lab12/lab12.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source masterslave.tcl -notrace
