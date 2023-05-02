@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Sep 13 09:32:01 2021
+# Process ID: 12764
+# Current directory: H:/EECS140_LAB/Lab3/Lab3.runs/impl_1
+# Command line: vivado.exe -log burkdoll_lab3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source burkdoll_lab3.tcl -notrace
+# Log file: H:/EECS140_LAB/Lab3/Lab3.runs/impl_1/burkdoll_lab3.vdi
+# Journal file: H:/EECS140_LAB/Lab3/Lab3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source burkdoll_lab3.tcl -notrace
